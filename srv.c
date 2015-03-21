@@ -99,7 +99,7 @@ int main(int argc, char *argv[])
 		close(data_srv);
 		close(cmd_cli);
 	}
-	printf("KWSEProject!\n");
+	printf("KWSEProject!!!!\n");
 	exit(0);
 }
 
